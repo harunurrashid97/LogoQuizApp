@@ -3,10 +3,10 @@ It is a quiz app of Android platfrom , in here you have to identify logo and tel
 
 # App Demo Image
 
-![Demo1](Demo/appdemo1)
-![Demo2](Demo/appdemo2)
+[Demo1](Demo/appdemo1)
+[Demo2](Demo/appdemo2)
 
 # App Demo Video
 
-![Demo Video](Demo/appdemovideo)
+[Demo Video](Demo/appdemovideo)
 
