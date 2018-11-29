@@ -8,5 +8,5 @@ It is a quiz app of Android platfrom , in here you have to identify logo and tel
 
 # App Demo Video
 
-[Demo Video](Demo/appdemovideo.mp4)
+[Demo Video](Demo/)
 
